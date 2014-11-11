@@ -1,4 +1,4 @@
-# Rails CRUD Practice
+== Rails CRUD Practice
 
 
 Exercises done during MakerSquare to practice Rails and CRUD (create, read, update, destroy) of resources.
